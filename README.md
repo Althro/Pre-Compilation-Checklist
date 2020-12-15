@@ -14,6 +14,7 @@ Personal checklist for compiling via Wabbajack
 - Re-run behavior engines
 - If mods updated, make sure there are no resolution errors in xEdit in your custom patches
 - Maintain a changelog while working on the list, so things aren't forgotten, set date to `TBD`
+- Rename Version separator in MO2
 
 ## Compilation
 
