@@ -17,7 +17,7 @@ Personal checklist for compiling via Wabbajack
 - Maintain a changelog while working on the list, so things aren't forgotten, set date to `TBD`
 - Rename Version separator in MO2
 - Re-run dynamic patchers if applicable
-- Occlussion if applicable
+- Occlusion if applicable
 
 ## Compilation
 
