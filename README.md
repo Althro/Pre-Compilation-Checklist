@@ -11,10 +11,13 @@ Personal checklist for compiling via Wabbajack
 ## Maintanance
 
 - Delete old downloads of updated mods while updating your list
-- Re-run behavior engines
+- Re-run behavior engines if applicable
 - If mods updated, make sure there are no resolution errors in xEdit in your custom patches
+- If mods updated, check that formids weren't renumerated, if so, fix in custom patches
 - Maintain a changelog while working on the list, so things aren't forgotten, set date to `TBD`
 - Rename Version separator in MO2
+- Re-run dynamic patchers if applicable
+- Occlussion if applicable
 
 ## Compilation
 
