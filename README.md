@@ -20,6 +20,7 @@ Personal checklist for compiling via Wabbajack
 - Update Grass Cache if applicable
 - Update LOD if applicable
 - Occlusion if applicable
+- Update Readme and Changelog
 
 ## Compilation
 
