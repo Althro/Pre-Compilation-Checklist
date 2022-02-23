@@ -27,4 +27,4 @@ Personal checklist for compiling via Wabbajack
 - If using [this](https://github.com/wabbajack-tools/wabbajack/wiki/Keeping-The-Game-Folder-Clean-(via-local-game-installs)) method to keep game folder files clean, ensure the ModOrganizer.ini is correct, keep a backup of the dev .ini to run the game on your local install
 - If ENB is edited or tweaked, replace files in Stock Game
 - Update either modlists.json or unlisted_modlists.json with new metadata after successful compilation
-- Update modlist on Modwat.ch if applicable
+- Update modlist on Load Order Library if applicable
