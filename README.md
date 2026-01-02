@@ -1,12 +1,12 @@
 # Pre-Compilation-Checklist
 
-Personal checklist for compiling via Wabbajack
+Personal checklist for compiling via Wabbajack.
 
 
 ## Meta Files
 
 - Ensure .meta files are properly configured, refer to [Creating your own modlist](https://github.com/wabbajack-tools/wabbajack#creating-your-own-modlist)
-- Ensure LOD files are whitelisted, if uploaded to Mega or GDrive
+- Ensure LOD files are uploaded to nexus or whitelisted (if uploaded to Mega or GDrive)
 
 ## Maintanance
 
@@ -25,6 +25,13 @@ Personal checklist for compiling via Wabbajack
 ## Compilation
 
 - If using [this](https://github.com/wabbajack-tools/wabbajack/wiki/Keeping-The-Game-Folder-Clean-(via-local-game-installs)) method to keep game folder files clean, ensure the ModOrganizer.ini is correct, keep a backup of the dev .ini to run the game on your local install
-- If ENB is edited or tweaked, replace files in Stock Game
-- Update either modlists.json or unlisted_modlists.json with new metadata after successful compilation
+- If ENB is edited or tweaked, replace files in Stock Game/ENB manager
+- Make sure modlist.json is set correctly in the precompile settings so that it can write to the repository.
+- Ensure GitHub token is up to date/active.
 - Update modlist on Load Order Library if applicable
+
+## Pre-Release announcement
+- Do a test download and install to ensure that it is working correctly.
+- Verify that GitHub data is all to date
+- Use the template for the Wabbabot announcement message.
+- Publish :)
